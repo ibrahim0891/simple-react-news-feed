@@ -1,4 +1,4 @@
-//This file is only for practise DO NOt make any thing here 
+//Welcome to source code 
 var navBar = {
     Home: 'index.html',
     Profile: 'profile.html',
