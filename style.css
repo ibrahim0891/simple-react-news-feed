@@ -16,8 +16,7 @@ img{
 }
 #root {
     max-width: 866px; 
-    margin: auto;
-    padding: 4rem;
+    margin: auto; 
 }
 
 .header {
